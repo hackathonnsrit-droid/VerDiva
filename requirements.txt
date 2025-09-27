@@ -1,6 +1,6 @@
 # Core
 Flask==2.3.3
-gunicorn==20.1.0
+gunicorn==21.2.0
 
 # Numerical & ML
 numpy==1.24.4
@@ -16,7 +16,7 @@ tensorflow==2.13.0
 keras==2.13.1
 h5py==3.9.0
 
-# TensorBoard (optional, but included for TensorFlow)
+# TensorBoard
 tensorboard==2.13.0
 tensorboard-data-server==0.7.0
 tensorboard-plugin-wit==1.8.1
